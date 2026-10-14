@@ -1,6 +1,6 @@
 # Ship the Model
 
-This repository contains my Week 3 internship work, focused on deploying machine learning models using FastAPI, building prediction APIs, authentication, and CRUD operations.
+This repository focused on deploying machine learning models using FastAPI, building prediction APIs, authentication, and CRUD operations.
 
 ## Repository overview
 
